@@ -2,4 +2,4 @@
 **Разработка кроссплатформенных приложений.**
 **Задание 6**
 
-![Screenshot](screenshot1_lab.png)
+![Screenshot](screenshot.png)
